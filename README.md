@@ -1,6 +1,15 @@
-# hellow-world
-trial 1st
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 
-i am learning programming and wanna buy a macbook afterward
+</style>
+</head>
+<body>
 
-this is the second change
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
